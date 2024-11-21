@@ -1,0 +1,35 @@
+body {
+    color: white;
+    background: purple;
+    margin:0;
+    font-family: "Lilita One", sans-serif;
+    font-size: 15px;
+}
+
+header{
+    border-bottom: solid 3px black;
+    padding: 20px;
+    font-size: 50px;
+    color: rgb(42, 122, 228);
+}
+
+section{
+    background-color: blueviolet;
+    margin: 60px;
+    display: flex;
+}
+
+
+.chamado-do-video {
+    margin-right: 70px;
+    margin: 80px;
+    display:flex ;
+}
+;
+
+<h2>
+.chamado-do-video{
+    margin: right 70px; 
+    margin: 80px;
+    display: flex;
+}
